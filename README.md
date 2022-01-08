@@ -3,6 +3,7 @@
   ## Description
   This PWA (Progressive Web Application) gives users a way to keep track of their cash flow.
 
+  ![screenshot of project](screenshot.png)
   
   ## Table of Contents
   * [Installation](#installation)
