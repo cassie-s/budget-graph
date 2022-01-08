@@ -1,4 +1,4 @@
-# Budget Tracker
+# Budget Graph
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Description
   This PWA (Progressive Web Application) gives users a way to keep track of their cash flow.
